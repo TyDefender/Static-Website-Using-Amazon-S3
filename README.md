@@ -1,10 +1,9 @@
 
 <h1>Static Website Using Amazon S3</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+In this project I created and configured a simple static website using Amazon S3. The primary objectives involved creating an S3 bucket, ensuring public access, uploading index and error file, and then applying a bucket policy. This project demonstrated the creation of a cost-efficient website hosting solution for static content on AWS S3, emphasizing proper configuration and enabling public access.
+
 <br />
 
 
