@@ -17,7 +17,7 @@ In this project I created and configured a simple static website using Amazon S3
 
 - <b>AWS</b>
 
-<h2>Program walk-through:</h2>
+<h2>Project walk-through:</h2>
 
 <p align="center">
 Launch S3 Bucket (with unique name) : <br/>
