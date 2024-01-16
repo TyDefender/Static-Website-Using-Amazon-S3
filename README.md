@@ -19,12 +19,12 @@ In this project I created and configured a simple static website using Amazon S3
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Launch S3 Bucket (with unique name) : <br/>
+<img src="https://i.imgur.com/3XJxeTP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Unblock Public Access:  <br/>
+<img src="https://i.imgur.com/91yDfPq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
