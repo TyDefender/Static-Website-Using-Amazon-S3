@@ -7,14 +7,15 @@ In this project I created and configured a simple static website using Amazon S3
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Tools Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>S3</b> 
+- <b>Bucket Policies</b>
+- <b>JSON Syntax</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>AWS</b>
 
 <h2>Program walk-through:</h2>
 
